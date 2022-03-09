@@ -1,0 +1,11 @@
+md5: 696fc8428c59eb802dd0547cae61094d
+frozen: true
+deps:
+- path: mlops_project/data/data.csv
+  repo:
+    url: https://github.com/joaomj/mlops_gentle.git
+    rev_lock: b7dde146830df1a34bc09c8e7a1b8a2dfcbc34d5
+outs:
+- md5: 97edcee3524b1675ab68790ad35e80e9
+  size: 158375420
+  path: downloaded_data.csv
